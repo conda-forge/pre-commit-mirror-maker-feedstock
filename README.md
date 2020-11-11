@@ -5,11 +5,9 @@ Home: https://github.com/pre-commit/pre-commit-mirror-maker
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/pre-commit-mirror-maker-feedstock/blob/master/LICENSE.txt)
 
 Summary: Scripts for creating mirror repositories that do not have .pre-commit-hooks.yaml
-
-
 
 Current build status
 ====================
