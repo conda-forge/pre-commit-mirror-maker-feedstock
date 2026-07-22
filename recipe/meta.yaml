@@ -1,5 +1,5 @@
 {% set name = "pre-commit-mirror-maker" %}
-{% set version = "1.13.0" %}
+{% set version = "1.13.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/{{ name|replace('-', '_') }}-{{ version }}.tar.gz
-  sha256: 7f259419c92dd2e6736488f863fa6c1da842472edc04ad302c11adb3c09c056b
+  sha256: 076385787736d9f58a8bc3e855b0a384319fb88cabe0b039653236d85c5edc4d
 
 build:
   number: 0
